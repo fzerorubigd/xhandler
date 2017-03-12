@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
+	"context"
 	"github.com/rs/cors"
 	"github.com/rs/xhandler"
-	"golang.org/x/net/context"
 )
 
 func ExampleChain() {

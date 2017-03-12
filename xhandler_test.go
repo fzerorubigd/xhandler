@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
+	"context"
 	"github.com/stretchr/testify/assert"
-	"golang.org/x/net/context"
 )
 
 type handler struct{}
