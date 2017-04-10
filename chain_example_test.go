@@ -7,8 +7,9 @@ import (
 	"time"
 
 	"context"
-	"github.com/rs/cors"
-	"github.com/rs/xhandler"
+
+	"github.com/fzerorubigd/cors"
+	"github.com/fzerorubigd/xhandler"
 )
 
 func ExampleChain() {

@@ -6,7 +6,8 @@ import (
 	"time"
 
 	"context"
-	"github.com/rs/xhandler"
+
+	"github.com/fzerorubigd/xhandler"
 )
 
 type key int
